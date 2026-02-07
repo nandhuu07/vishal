@@ -42,7 +42,7 @@ let currentTreasure = 0;
 
 const answers = {
     1: "nandhu",
-    2: "nandhu ki football jersey shoes yedhi aduguthey adi konistha",
+    2: "nandhu is a good boy",
     3: "never"
 };
 
@@ -256,3 +256,4 @@ function initScratch() {
         );
     });
 }
+
