@@ -41,20 +41,20 @@ function goMap() {
 let currentTreasure = 0;
 
 const answers = {
-    1: "nandhu",
-    2: "nandhu is a good boy",
+    1: "vishal",
+    2: "yedhi em ina saki",
     3: "never"
 };
 
 const questions = {
-    1: "who is yourrrr bestesttesttt frndddd ??? (hint open chey)!!",
-    2: "Nandhu ki text chesi aduguu direct ",
-    3: "eppudu ina marchipothava nanuuu"
+    1: "whom do you love the most (excluding your parents)??? (hint open chey)!!",
+    2: "what song reminds you and me??",
+    3: "nanu marchipothavaa eppudu ina?"
 };
 
 const hints = {
     1: "naaa peruuu chepakapothey narikestthaa",
-    2: "hint em ledhu nandhuuu kitext chesi adugu",
+    2: "hint kavali antey i love you chepu naku ",
     3: "narkuthaaa marchipothey!!!"
 };
 
@@ -256,4 +256,5 @@ function initScratch() {
         );
     });
 }
+
 
